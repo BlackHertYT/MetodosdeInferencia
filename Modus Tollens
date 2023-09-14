@@ -1,0 +1,7 @@
+Si Juan llega a tiempo, entonces la reunión comenzará.
+La reunión no comenzó.
+Por lo tanto, Juan no llegó a tiempo.
+En este ejemplo, tenemos una afirmación condicional en la premisa 1 ("Si Juan llega a tiempo, entonces la reunión comenzará"). 
+En la premisa 2, se establece que "La reunión no comenzó". Según el Modus Tollens, podemos concluir válidamente que Juan no llegó a tiempo 
+(premisa 3) debido a que la consecuencia de la afirmación condicional (la reunión comenzará) no se cumplió (premisa 2). 
+Este es un ejemplo típico de cómo funciona el Modus Tollens para refutar una afirmación condicional al demostrar que su consecuencia no es verdadera.
