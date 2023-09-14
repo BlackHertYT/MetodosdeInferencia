@@ -1,0 +1,16 @@
+
+El "Modus Ponens" es un argumento válido en lógica proposicional que sigue la siguiente estructura:
+
+Si A, entonces B.
+A.
+Por lo tanto, B.
+En otras palabras, si tienes una afirmación condicional (un "si... entonces...") donde la primera parte (A) es verdadera, y tienes evidencia de que A es verdadero, entonces puedes concluir que la segunda parte (B) también es verdadera.
+
+Ejemplo:
+
+Si llueve, entonces la calle estará mojada.
+Está lloviendo.
+Por lo tanto, la calle estará mojada.
+En este ejemplo, dado que tenemos la afirmación condicional "Si llueve, entonces la calle estará mojada" (premisa 1), y sabemos que está lloviendo (premisa 2), podemos inferir válidamente que la calle estará mojada (conclusión).
+
+El Modus Ponens es un ejemplo fundamental de razonamiento deductivo y es ampliamente utilizado en lógica y en la resolución de problemas en diversas disciplinas. Es uno de los modos de inferencia más simples y confiables.
